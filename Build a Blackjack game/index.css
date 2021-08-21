@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    padding: 20px;
+    background-color: green;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 100px;
+}
+
+#message-el {
+    padding: 20px;
+    font-size: 60px;
+}
+
+#startGame {
+    color: #016f32;
+    width: 200px;
+    padding: 20px;
+    background: goldenrod;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 2PX;
+    border: none;
+}
+
+#newCard {
+    color: #016f32;
+    width: 200px;
+    padding: 20px;
+    margin: 10px;
+    background: goldenrod;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 2PX;
+    border: none;
+}
